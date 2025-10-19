@@ -1,2 +1,2 @@
 # git-practice
-ㅣ뮤 7
+lab 7
